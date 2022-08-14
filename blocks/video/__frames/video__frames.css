@@ -3,4 +3,5 @@
   transform: translateY(50px);
   margin: auto;
   justify-content: center;
+  gap: 20px;
 }
